@@ -5,8 +5,7 @@ categoriavehiculos= [
     (1,'ligeros'),
     (2,'pesados'),
     (3,'especiales'),
-    (4,'agricolas'),
-    (5,'otros')
+    (4,'agricolas')
 ]
 
 class cliente(models.Model):
